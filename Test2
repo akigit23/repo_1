@@ -1,1 +1,9 @@
 print("Hello git hub")
+print("welcome to the world of ptyhon")
+input("what is your name")
+input("whats is your age")
+input("which couse ,you like to work on ")
+print("Thank you for checking with us")
+
+
+
