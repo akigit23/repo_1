@@ -1,9 +1,11 @@
 print("Hello git hub")
 print("welcome to the world of ptyhon")
-input("what is your name")
-input("whats is your age")
-input("which couse ,you like to work on ")
+name = input("what is your name")
+age = input("whats is your age")
+course = input("which couse ,you like to work on ")
 print("Thank you for checking with us")
+
+avliable_course = [1,2,3,4,5,6]
 
 
 
